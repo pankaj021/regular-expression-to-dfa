@@ -14,9 +14,9 @@ You will have to follow at least following things ...
 
       ./output
 
-5. If you follow those steps , it will work on ubuntu machine.
+5. If you follow those steps , it will work on ubuntu machine . Please let me know if there doesn't work. 
 
 
 Apart from all these things , there are many issues with this code . I couldn't fix those because of time and other things.
 
-Still I hope it works in your ways .....  
+Still I hope it works fine in your ways .....  
